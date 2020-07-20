@@ -54,3 +54,5 @@ h1 img{width:280px;}
 .side .con>p>em{font:bold normal 16px/1.7 arial; color:#a0bd50; transform:skew(40deg); display: inline-block;}
 .side .con img{opacity:0.3;}
 .side .con img:hover{opacity:1;}
+
+.btnContents{position:absolute; bottom:0; left:0; color:#b9fb05; font-size:60px; transform:skew(40deg);}
